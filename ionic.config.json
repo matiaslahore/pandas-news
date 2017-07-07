@@ -1,6 +1,6 @@
 {
   "name": "pandas-news",
-  "app_id": "",
+  "app_id": "newsPandaLocal",
   "type": "ionic1",
   "watchPatterns": [
     "scss/**/*"
